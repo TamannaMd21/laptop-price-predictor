@@ -76,6 +76,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 <img width="1920" height="1020" alt="Screenshot 2026-05-01 190448" src="https://github.com/user-attachments/assets/d6f46d9d-44b2-4c87-9a78-1da376710c25" />
+
 <img width="1920" height="1020" alt="Screenshot 2026-05-01 190508" src="https://github.com/user-attachments/assets/98144ec9-afd2-4916-a829-e07f873d41ee" />
 
 
